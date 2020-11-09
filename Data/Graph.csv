@@ -1,0 +1,89 @@
+Country,Count,Value,seek_help,Total,Type
+Australia,3,14.29,Don't know,21,
+Australia,8,38.1,Yes,21, Employer Support for Mental Health (% YES)
+Australia,8,10,Yes,21,Happiness Rank
+Australia,10,47.62,No,21,
+Austria,1,33.33,No,3,
+Austria,2,66.67,Don't know,3,
+Belgium,6,100,No,6,
+Bosnia and Herzegovina,1,100,Don't know,1,
+Brazil,6,100,No,6,
+Bulgaria,4,100,No,4,
+Canada,9,12.5,Yes,72, Employer Support for Mental Health (% YES)
+Canada,9,7,Yes,72,Happiness Rank
+Canada,21,29.17,Don't know,72,
+Canada,42,58.33,No,72,
+China,1,100,No,1,
+Colombia,2,100,No,2,
+Costa Rica,1,100,No,1,
+Croatia,1,50,Don't know,2,
+Croatia,1,50,No,2,
+Czech Republic,1,100,No,1,
+Denmark,2,100,No,2,
+Finland,1,33.33,Don't know,3,
+Finland,2,66.67,No,3,
+France,2,15.38,Don't know,13,
+France,11,84.62,No,13,
+Georgia,1,100,No,1,
+Germany,4,8.89,Yes,45, Employer Support for Mental Health (% YES)
+Germany,4,16,Yes,45,Happiness Rank
+Germany,7,15.56,Don't know,45,
+Germany,34,75.56,No,45,
+Greece,2,100,No,2,
+Hungary,1,100,No,1,
+India,2,20,Don't know,10,
+India,8,80,No,10,
+Ireland,3,11.11,Don't know,27,
+Ireland,3,11.11,Yes,27, Employer Support for Mental Health (% YES)
+Ireland,3,15,Yes,27,Happiness Rank
+Ireland,21,77.78,No,27,
+Israel,1,20,Don't know,5,
+Israel,1,20,Yes,5, Employer Support for Mental Health (% YES)
+Israel,1,11,Yes,5,Happiness Rank
+Israel,3,60,No,5,
+Italy,2,28.57,Don't know,7,
+Italy,5,71.43,No,7,
+Japan,1,100,No,1,
+Latvia,1,100,No,1,
+Mexico,1,33.33,Don't know,3,
+Mexico,2,66.67,No,3,
+Moldova,1,100,No,1,
+Netherlands,3,11.11,Yes,27, Employer Support for Mental Health (% YES)
+Netherlands,3,6,Yes,27,Happiness Rank
+Netherlands,8,29.63,Don't know,27,
+Netherlands,16,59.26,No,27,
+New Zealand,2,25,Yes,8, Employer Support for Mental Health (% YES)
+New Zealand,2,8,Yes,8,Happiness Rank
+New Zealand,6,75,No,8,
+Nigeria,1,100,No,1,
+Norway,1,100,No,1,
+Philippines,1,100,No,1,
+Poland,1,14.29,Yes,7, Employer Support for Mental Health (% YES)
+Poland,1,46,Yes,7,Happiness Rank
+Poland,6,85.71,No,7,
+Portugal,2,100,No,2,
+Romania,1,100,No,1,
+Russia,1,33.33,Don't know,3,
+Russia,2,66.67,No,3,
+Singapore,1,25,Don't know,4,
+Singapore,3,75,No,4,
+Slovenia,1,100,No,1,
+South Africa,6,100,No,6,
+Spain,1,100,No,1,
+Sweden,1,14.29,Yes,7, Employer Support for Mental Health (% YES)
+Sweden,1,9,Yes,7,Happiness Rank
+Sweden,2,28.57,Don't know,7,
+Sweden,4,57.14,No,7,
+Switzerland,2,28.57,Yes,7, Employer Support for Mental Health (% YES)
+Switzerland,2,4,Yes,7,Happiness Rank
+Switzerland,5,71.43,No,7,
+Thailand,1,100,No,1,
+United Kingdom,26,14.13,Yes,184, Employer Support for Mental Health (% YES)
+United Kingdom,26,19,Yes,184,Happiness Rank
+United Kingdom,42,22.83,Don't know,184,
+United Kingdom,116,63.04,No,184,
+United States,187,25.07,Yes,746, Employer Support for Mental Health (% YES)
+United States,187,14,Yes,746,Happiness Rank
+United States,262,35.12,Don't know,746,
+United States,297,39.81,No,746,
+Uruguay,1,100,No,1,
