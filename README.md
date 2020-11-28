@@ -8,7 +8,7 @@
 #### • The importance of mental health well-being in relation to the top ranked happiest countries.
 #### This narrative visualization can be the first step for the general public, social activists, policy makers, communities, governments to come up with a solution for a change in the society and make it a better place.<br><br>
 
-[Check out the data exploration](https://github.com/ManaliChoudhary/Data-Exploration-and-Visualization/blob/main/Reports/Exploration_Report.pdf)<br>
+[Check out the data exploration using Tableau and R](https://github.com/ManaliChoudhary/Data-Exploration-and-Visualization/blob/main/Reports/Exploration_Report.pdf)<br>
 [Visit the visualization app](https://manali.shinyapps.io/InthePursuitofHappiness/)
 
 <i>This was an individual assignment where I scored the highest grade.</i>
